@@ -17,4 +17,5 @@
         console.log(description2.languages.vi); // value: Xin chào bạn
     };
 
- * Yêu cầu: chỉnh sửa lại đoạn code trên để khi chạy dòng description2.languages.vi = "Xin chào bạn" (hoặc giá trị bất kỳ) thì description1.languages.vi vẫn là "Xin chào"
+ * Yêu cầu: 
+Chỉnh sửa dòng code ghi chú trên(không xóa hoặc thay đổi các dòng khác) để khi thay đổi giá trị description2.languages.vi = "Xin chào bạn" (hoặc giá trị bất kỳ) thì description1.languages.vi vẫn là "Xin chào". 
